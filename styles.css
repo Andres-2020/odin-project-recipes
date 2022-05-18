@@ -1,0 +1,13 @@
+.recipe,
+a {
+    color:darkgoldenrod;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: justify;
+}
+img {
+    height: auto;
+    width: 650px;
+}
